@@ -3,8 +3,8 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.informix.jdbc.IfxDriver
     url: jdbc:informix-sqli://32.2.32.5:43001/invoicemgrdb:informixServer=server_dev;newcodeset=GBK,8859-1,819;
-    username: weij
-    password: piccpicc
+    username: adm
+    password: 123
     druid:
       #初始化大小、最小空闲、最大激活
       initial-size: 10
